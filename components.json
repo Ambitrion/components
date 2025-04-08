@@ -1,0 +1,25 @@
+[
+  {
+    "type": "Процесор",
+    "name": "Intel Core i5-12400F",
+    "image": "https://example.com/images/i5-12400f.jpg",
+    "specs": [
+      { "label": "Сокет", "value": "LGA1700" },
+      { "label": "Ядер", "value": 6 },
+      { "label": "Потоків", "value": 12 },
+      { "label": "Частота", "value": "2.5 GHz" },
+      { "label": "TDP", "value": "65W" }
+    ]
+  },
+  {
+    "type": "Відеокарта",
+    "name": "NVIDIA GeForce RTX 3060",
+    "image": "https://example.com/images/rtx3060.jpg",
+    "specs": [
+      { "label": "Пам'ять", "value": "12 GB GDDR6" },
+      { "label": "Boost Clock", "value": "1.78 GHz" },
+      { "label": "TDP", "value": "170W" }
+    ]
+  }
+  // Додайте інші комплектуючі за аналогією
+]
