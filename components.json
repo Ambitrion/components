@@ -2,7 +2,7 @@
   {
     "type": "Процесор",
     "name": "Intel Core i5-12400F",
-    "image": "https://example.com/images/i5-12400f.jpg",
+    "image": "https://api.e-server.com.ua/storage/168940/U0612196_big.jpg",
     "specs": [
       { "label": "Сокет", "value": "LGA1700" },
       { "label": "Ядер", "value": 6 },
@@ -14,7 +14,7 @@
   {
     "type": "Відеокарта",
     "name": "NVIDIA GeForce RTX 3060",
-    "image": "https://example.com/images/rtx3060.jpg",
+    "image": "https://brain.com.ua/static/images/prod_img/3/2/U0559832_2_1739810751.jpg",
     "specs": [
       { "label": "Пам'ять", "value": "12 GB GDDR6" },
       { "label": "Boost Clock", "value": "1.78 GHz" },
